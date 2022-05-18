@@ -17,11 +17,11 @@ The code for training evaluation and inference for both `QCPG` and `QP` models i
 ```
 
 
-[`qcpg-questions`](https://pages.github.com/)
+[`qcpg-questions`](https://huggingface.co/ibm/qcpg-questions)
 
-[`qcpg-sentences`](https://pages.github.com/)
+[`qcpg-sentences`](https://huggingface.co/ibm/qcpg-sentences)
 
-[`qcpg-captions`](https://pages.github.com/)
+[`qcpg-captions`](https://huggingface.co/ibm/qcpg-captions)
 
 ## Citation
 ```
