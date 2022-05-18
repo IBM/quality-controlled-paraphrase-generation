@@ -17,11 +17,11 @@ The code for training, evaluation and inference for both `QCPG` and `QP` is loca
 ```
 
 
-[`qcpg-questions`](https://huggingface.co/ibm/qcpg-questions) (Trained on Wiki-Answers)
+[`qcpg-questions`](https://huggingface.co/ibm/qcpg-questions) (Trained on `data/wikians`)
 
-[`qcpg-sentences`](https://huggingface.co/ibm/qcpg-sentences) (Trained on Para-Bank2)
+[`qcpg-sentences`](https://huggingface.co/ibm/qcpg-sentences) (Trained on `data/parabk2`)
 
-[`qcpg-captions`](https://huggingface.co/ibm/qcpg-captions) (Trained on MS-COCO)
+[`qcpg-captions`](https://huggingface.co/ibm/qcpg-captions) (Trained on `data/mscoco`)
 
 ## Usage
 
