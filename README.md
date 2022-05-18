@@ -12,7 +12,16 @@ The code for training evaluation and inference both `QCPG` and `QP` models locat
 
 ## Trained Models
 
-Will be published soon!
+```
+!!! Notice !!! Our results show that on avarage QCPG is follwing the quality conditions and capable of generating higher quality greedy-sampled paraphrases then finetuned model. It does not mean every time it will be better, and it does not mean it will be perfect paraphrases all the time! In practice, for best preformence, we highly reccomend to use QCPG with more sophisticated sampling methods in conjuction with post-generation monitoring and filtering phase. 
+```
+
+
+[`qcpg-questions`](https://pages.github.com/)
+
+[`qcpg-sentences`](https://pages.github.com/)
+
+[`qcpg-captions`](https://pages.github.com/)
 
 ## Citation
 ```
