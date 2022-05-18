@@ -6,7 +6,7 @@ Here we propose `QCPG`, a quality-guided controlled paraphrase generation model,
 ## Training Evaluation and Inference
 The code for training evaluation and inference both `QCPG` and `QP` models located in the dedicated folder. scripts for reproducing our experiments can be found in the scripts folder inside the models folders. 
 
-Citation
+## Citation
 ```
 @inproceedings{bandel-etal-2022-quality,
     title = "Quality Controlled Paraphrase Generation",
