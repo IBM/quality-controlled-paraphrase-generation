@@ -1,0 +1,4 @@
+datasets==1.7.0
+transformers==4.6.1
+tensorboard==2.5.0
+sacrebleu==1.5.1
