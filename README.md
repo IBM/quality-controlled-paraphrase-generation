@@ -6,7 +6,7 @@
 > Here we propose `QCPG`, a quality-guided controlled paraphrase generation model, that allows directly controlling the quality dimensions. Furthermore, we suggest a method that given a sentence, identifies points in the quality control space that are expected to yield optimal generated paraphrases. We show that our method is able to generate paraphrases which maintain the original meaning while achieving higher diversity than the uncontrolled baseline.
 
 ## Training Evaluation and Inference
-The code for training evaluation and inference both `QCPG` and `QP` models located in the dedicated folder. scripts for reproducing our experiments can be found in the scripts folder inside the models folders. 
+The code for training evaluation and inference for both `QCPG` and `QP` models is located in the dedicated directory. scripts for reproducing the experiments can be found in the scripts directories inside the models directory. 
 
 <img src="/assets/images/arch.png" width="90%"> 
 
