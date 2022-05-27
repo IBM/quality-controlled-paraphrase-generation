@@ -38,7 +38,7 @@ def main():
     else:
         dataset_args, eval_args = parser.parse_args_into_dataclasses()
 
-    os.makedirs(os.path.dirname(eval_args.output_path), exist_ok=True)
+    os.makedirs(os.path.abspath(os.path.dirname(eval_args.output_path)), exist_ok=True)
 
     dataset = prepare_dataset(dataset_args)
     column_names = dataset.column_names
