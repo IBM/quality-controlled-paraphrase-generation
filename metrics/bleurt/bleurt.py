@@ -100,7 +100,7 @@ class BLEURT(datasets.Metric):
             }   
             
             with torch.no_grad():
-                outputs = self.model(**inputs)['logits'].squeeze()
+                outputs = self.model(**inputs)['logits'].squeeze(-1)
 
             if adjusted:
                 outputs = 1 / (1 + 2 ** (-4 * outputs)) # scaled sigmoid
