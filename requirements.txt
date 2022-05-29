@@ -2,3 +2,8 @@ datasets==1.7.0
 transformers==4.6.1
 tensorboard==2.5.0
 sacrebleu==1.5.1
+Levenshtein==0.18.1
+benepar==0.2.0
+apted==1.0.3
+bert_score==0.3.11
+sentencepiece==0.1.96
