@@ -2,8 +2,8 @@
 
 python="python"
 
-raw_datasets_dir="data"
-processed_datasets_dir="datasets"
+raw_datasets_dir="..."
+processed_datasets_dir="..."
 
 for dataset in "parabk2" "wikians" "mscoco"
 do
