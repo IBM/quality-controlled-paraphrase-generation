@@ -19,7 +19,7 @@ do
                 --output_path $output_file"
         
         if [ ! -f "$output_file" ]; then
-            echo $command
+            eval $command
         fi
 
     done
