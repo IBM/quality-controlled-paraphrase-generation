@@ -8,7 +8,7 @@
 ## Training, Evaluation and Inference
 The code for training, evaluation and inference for both `QCPG` and `QP` is located in the dedicated directories.  Scripts necassery for reproducing the experiments can be found in the `QCPG/scripts`, `QP/scripts` directories. 
 
-Make sure to run `QCPG/preprocess_data.sh` and set the missing datasets directories accordingly before training!
+Make sure to run `QCPG/scripts/prepare_data.sh` and set the missing datasets directories accordingly before training!
 
 <img src="/assets/images/arch.png" width="90%"> 
 
